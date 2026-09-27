@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/raw/*.jsonl
+data/synthetic/*.npz
+models/*.joblib
+models/*.onnx
+docs/figures/*.png
+.venv/
+.DS_Store
+ppg_env/
